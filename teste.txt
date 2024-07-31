@@ -1,2 +1,42 @@
-Oi meu nome é katiane
-daltonismo
+data: 30.07.2024
+nome: katiane
+atividade: sequencia logica como fazer um miojo
+
+1- pegue uma panela;
+2- vá até a torneira;
+3- ligue a torneira;
+4- encha a panela com 350ml de água;
+5- desligue a torneira
+6- vá até o fogão;
+7- ligue o fogão
+8- coloque a panela com água para ferver;
+9- espere ferver;
+10- vá até o armário;
+11- abra-o;
+12- pegue seu miojo;
+13- feche o armario;
+14- abra o miojo;
+15- volte para o fogão
+16- coloque o miojo na água fervente;
+17- aguarde três minutos;
+18- verifique se está cozido;
+19- desligue o fogão;
+20- vá até o armário;
+21- abra o armário;
+22- pegue um prato;
+23- feche o armário;
+24- coloque o prato na mesa;
+25- pegue a panela com o miojo;
+26- coloque seu miojo no prato;
+27- solte a panela;
+28- pegue o saquinho de tempero;
+29- abra-o;
+30- adicione o tempero no prato com miojo;
+31- jogue no lixo o saquinho já vazio;
+32- vá até a gaveta de talheres;
+33- abra a gaveta;
+34- pegue um garfo;
+35- feche a gaveta;
+36- volte para o prato com miojo
+37- misture;
+38- coma;
